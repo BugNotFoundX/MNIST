@@ -4,13 +4,13 @@
 
 ## Usage
 
-1. 安装`Python>=3.10`
+1. 安装uv：`curl -LsSf https://astral.sh/uv/install.sh | sh`
 2. 执行以下命令
    ```bash
-   git clone https://github.com/FvTao/MNIST.git
+   git clone https://github.com/BugNotFoundX/MNIST.git
    cd MNIST
-   pip3 install numpy matplotlib
-   python3 main.py
+   uv sync
+   uv run main.py
    ```
 
 ## BPNN 原理
