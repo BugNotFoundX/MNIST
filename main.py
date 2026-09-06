@@ -1,6 +1,13 @@
 # -*- coding: utf-8 -*-
+# @Author: BugNotFound
+# @Date: 2026-09-06 15:25:27
+# @LastEditTime: 2026-09-06 15:34:21
+# @FilePath: /MNIST/main.py
+# @Description: 
+
+# -*- coding: utf-8 -*-
 # @Time    : 2022/9/9 17:19
-# @Author  : LuMing
+# @Author  : BugNotFound
 # @File    : main.py
 # @Software: PyCharm 
 # @Comment :

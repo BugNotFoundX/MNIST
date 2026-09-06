@@ -1,6 +1,6 @@
 # -*- coding: utf-8 -*-
 # @Time    : 2022/9/9 18:06
-# @Author  : LuMing
+# @Author  : BugNotFound
 # @File    : bpnn.py
 # @Software: PyCharm 
 # @Comment : python3.10
